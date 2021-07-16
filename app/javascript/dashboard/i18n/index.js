@@ -1,4 +1,5 @@
 import ar from './locale/ar';
+import bn from './locale/bn';
 import ca from './locale/ca';
 import cs from './locale/cs';
 import da from './locale/da';
@@ -34,6 +35,7 @@ import zh_TW from './locale/zh_TW';
 
 export default {
   ar,
+  bn,
   ca,
   cs,
   da,
